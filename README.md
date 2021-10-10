@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aurora087
+<h1>👋 Hi, I’m Yui Watanabe</h1>
 
 <!---
 Aurora087/Aurora087 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
